@@ -1,0 +1,7 @@
+{
+  "name": "camel-to-sentence",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Syed Faateh Sultan Kazmi <faatehsultan30@gmail.com>"
+}
